@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Archive>
+    <Student id="1">
+        <name>Bruce</name>
+        <faculty>Energetic</faculty>
+        <groupNum>10606113</groupNum>
+        <year>2013</year>
+    </Student>
+    <Student id="2">
+        <name>Gleb</name>
+        <faculty>Marketing</faculty>
+        <groupNum>12534543</groupNum>
+        <year>2015</year>
+    </Student>
+    <Student id="3">
+        <name>test</name>
+        <faculty>test</faculty>
+        <groupNum>32323</groupNum>
+        <year>2022</year>
+    </Student>
+</Archive>
